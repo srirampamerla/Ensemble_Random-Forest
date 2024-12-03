@@ -18,7 +18,7 @@ Combining bootstrap and aggregation leads to the term Bootstrap Aggregating (Bag
 
 In case of regression we will average all the o/p or calculate mean for all the o/p from each model. That will be the final o/p.
 
-# Random Forest: A popular bagging algorithm that uses decision trees as base models. It further introduces randomness by selecting a random subset of features at each node of the tree, leading to more diverse and robust models.
+Random Forest: A popular bagging algorithm that uses decision trees as base models. It further introduces randomness by selecting a random subset of features at each node of the tree, leading to more diverse and robust models.
 
 We can select any models like Logistic, DT, KNN, Naive Bayers....
 
